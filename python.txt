@@ -1,0 +1,3 @@
+python created by the guido van russum 
+ the year of created =1991
+country = neitherland
